@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Developing feature1
+=======
+H, e, l, l, 
+>>>>>>> add a line hell to the MyFirstFile.txt in feature2
